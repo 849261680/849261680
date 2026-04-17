@@ -14,8 +14,8 @@ Focused on things that are actually useful: resume tooling, research agents, and
 ## Current Projects
 
 - [chat-resume](https://chatresume.tech) - AI resume optimization and mock interview platform.
-- [open-deep-research](https://rsgpt.vercel.app) - Deep research agent for planning, search, analysis, and report generation.
-- [Yzx Wiki](https://yzxwiki.vercel.app) - My personal llm wiki website
+- [open-deepresearch](https://rsgpt.vercel.app) - Deep research agent for planning, search, analysis, and report generation.
+- [YzxWiki](https://yzxwiki.vercel.app) - My personal llm wiki website
 - [token-heatmap](https://github.com/849261680/token-heatmap) - CLI for turning Codex and Claude Code usage logs into a GitHub-style token heatmap.
 - [DocPal](https://ragsys.vercel.app) - RAG enterprise knowledge base Q&A system.
 
