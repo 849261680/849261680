@@ -19,9 +19,6 @@ Focused on things that are actually useful: resume tooling, research agents, and
 - [YzxWiki](https://yzxwiki.vercel.app) - My personal llm wiki website
 - [DocPal](https://ragsys.vercel.app) - RAG enterprise knowledge base Q&A system.
 
-## Elsewhere
-
-- Website: [pengshixiong.com](https://www.pengshixiong.com)
 
 ## Token Heatmap
 
