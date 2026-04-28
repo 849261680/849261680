@@ -17,11 +17,9 @@ Focused on things that are actually useful: resume tooling, research agents, and
 - [open-deepresearch](https://rsgpt.vercel.app) - Deep research agent for planning, search, analysis, and report generation.
 - [token-heatmap](https://token-heatmap.vercel.app/) - CLI for turning Codex and Claude Code usage logs into a GitHub-style token heatmap.
 - [YzxWiki](https://yzxwiki.vercel.app) - My personal llm wiki website
+- [MacBlock](https://macblock.vercel.app) - MacBlock blocks distracting websites during timed work sessions.
 - [DocPal](https://ragsys.vercel.app) - RAG enterprise knowledge base Q&A system.
 
-## Elsewhere
-
-- Website: [pengshixiong.com](https://www.pengshixiong.com)
 
 ## Token Heatmap
 
