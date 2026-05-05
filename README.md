@@ -28,4 +28,4 @@ Focused on things that are actually useful: resume tooling, research agents, and
 
 Data source: [`849261680/token-heatmap`](https://github.com/849261680/token-heatmap)
 
-<!-- tokenheat-sync: 2026-05-05T21:27:38+08:00 -->
+<!-- tokenheat-sync: 2026-05-05T21:32:22+08:00 -->
