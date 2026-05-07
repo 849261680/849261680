@@ -1,3 +1,5 @@
+![Token Heatmap](heatmap.svg)
+
 # Hi, I'm 宇宙熊YZX
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,4 +30,4 @@ Focused on things that are actually useful: resume tooling, research agents, and
 
 Data source: [`849261680/token-heatmap`](https://github.com/849261680/token-heatmap)
 
-<!-- tokenheat-sync: 2026-05-07T21:07:07+08:00 -->
+<!-- tokenheat-sync: 2026-05-07T23:53:50+08:00 -->
