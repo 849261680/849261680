@@ -21,13 +21,4 @@ Focused on things that are actually useful: resume tooling, research agents, and
 - [token-heatmap](https://token-heatmap.vercel.app/) - CLI for turning Codex and Claude Code usage logs into a GitHub-style token heatmap.
 - [YzxWiki](https://yzxwiki.vercel.app) - My personal llm wiki website
 - [MacBlock](https://macblock.vercel.app) - MacBlock blocks distracting websites during timed work sessions.
-- [DocPal](https://ragsys.vercel.app) - RAG enterprise knowledge base Q&A system.
-
-
-## Token Heatmap
-
-[![Token Heatmap](./heatmap.svg)](https://github.com/849261680/token-heatmap)
-
-Data source: [`849261680/token-heatmap`](https://github.com/849261680/token-heatmap)
-
-<!-- tokenheat-sync: 2026-05-08T00:05:08+08:00 -->
+- [DocPal](https://ragsys.vercel.app) - RAG enterprise knowledge base Q&A system
