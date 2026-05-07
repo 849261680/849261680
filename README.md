@@ -20,3 +20,9 @@ Focused on things that are actually useful: resume tooling, research agents, and
 - [YzxWiki](https://yzxwiki.vercel.app) - My personal llm wiki website
 - [MacBlock](https://macblock.vercel.app) - MacBlock blocks distracting websites during timed work sessions.
 - [DocPal](https://ragsys.vercel.app) - RAG enterprise knowledge base Q&A system
+
+## Token Heatmap
+
+![Token Heatmap](heatmap.svg)
+
+<!-- tokenheat-sync: 2026-05-08T00:10:39+08:00 -->
