@@ -25,4 +25,4 @@ Focused on things that are actually useful: resume tooling, research agents, and
 
 ![Token Heatmap](heatmap.svg)
 
-<!-- tokenheat-sync: 2026-05-08T18:05:14+08:00 -->
+<!-- tokenheat-sync: 2026-05-09T00:05:25+08:00 -->
