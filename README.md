@@ -10,7 +10,7 @@
 
 Building with Coding Agent, shipping small experiments, and keeping things practical.
 
-Focused on things that are actually useful: resume tooling, research agents, and RAG systems.
+Focused on things that are actually useful.
 
 ## Current Projects
 
