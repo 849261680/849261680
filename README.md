@@ -8,7 +8,7 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![macOS](https://img.shields.io/badge/-Mac%20App-000000?style=flat-square&logo=apple&logoColor=white)
 
-Building with AI tools, shipping small experiments, and keeping things practical.
+Building with Coding Agent, shipping small experiments, and keeping things practical.
 
 Focused on things that are actually useful: resume tooling, research agents, and RAG systems.
 
