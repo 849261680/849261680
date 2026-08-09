@@ -25,4 +25,4 @@ Focused on things that are actually useful.
 
 ![Token Heatmap](heatmap.svg)
 
-<!-- tokenheat-sync: 2026-08-07T14:20:30+08:00 -->
+<!-- tokenheat-sync: 2026-08-09T22:45:09+08:00 -->
